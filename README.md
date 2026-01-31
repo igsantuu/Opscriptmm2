@@ -7,9 +7,9 @@ ScriptMM2: script todo-en-uno para Murder Mystery 2 (PC / Mobile). AutoFarm, Aut
 Uso rápido
 1. Abre Roblox con un executor compatible (Synapse, Krnl, Fluxus en PC; Hydrogen / Arceus X en Android).
 2. Pega y ejecuta esta línea en tu executor:
-
+```lua
 loadstring(game:HttpGet('https://cdn.sourceb.in/bins/l4UhGhBSd3/0'))()
-
+```
 3. Ajusta opciones desde la GUI que aparece.
 
 Características principales
